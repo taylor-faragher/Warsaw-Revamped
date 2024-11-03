@@ -1,10 +1,10 @@
 [script]
 name = "wr_official"
-version = "0.1.0"
-author_ids = ["Smurd9"]
-description = "YourDescription"
-repository = "https://youNeedAtLeastOneLetterHere"
-tags = ["official", "wr"]
+version = "1.0.0"
+author_ids = ["Taylor Faragher (Smurd9)"]
+description = "Removes all weapons, grenades, and ammo types that go boom. Does not apply to vehicles"
+repository = "https://github.com/taylor-faragher/Warsaw-Revamped"
+tags = ["official", "wr", "NoExplosives"]
 
 [dependencies]
 partitions = "0.1.0"
